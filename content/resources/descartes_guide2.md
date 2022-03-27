@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee03203e-3e7b-dbd2-57d5-ea47c421184b
 resourcetype: Document
 title: descartes_guide2.pdf
 uid: e6bb0ef1-f2a3-3a72-2619-7c4eb32522f7

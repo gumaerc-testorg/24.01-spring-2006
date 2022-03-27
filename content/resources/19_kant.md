@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee03203e-3e7b-dbd2-57d5-ea47c421184b
 resourcetype: Document
 title: 19_kant.pdf
 uid: 1cf4fed3-f55b-b257-9d93-1b34afc4cc1f

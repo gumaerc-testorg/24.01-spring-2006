@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 18cb5f3a-7754-34c7-0828-911140e9d1a7
 resourcetype: Document
 title: 1_apology.pdf
 uid: c62db411-18f6-a9de-2428-745f62730c4d
