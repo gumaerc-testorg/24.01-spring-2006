@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains sample exam, quotations under heading Part 1 and
+  short essay writing under heading Part 2.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

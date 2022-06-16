@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains weblinks related to philosophy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

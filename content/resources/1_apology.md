@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-01-classics-in-western-philosophy-spring-2006/c62db41118f6a9de2428745f62730c4d_1_apology.pdf
+file: /courses/24-01-classics-in-western-philosophy-spring-2006/c62db41118f6a9de2428745f62730c4d_1_apology.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
