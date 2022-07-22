@@ -5,6 +5,7 @@ file: /courses/24-01-classics-in-western-philosophy-spring-2006/e6bb0ef1f2a33a72
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: descartes_guide2.pdf
 uid: e6bb0ef1-f2a3-3a72-2619-7c4eb32522f7
 ---
 Excerpt from from the professor's "Study Guide to Descartes' Meditations."
-

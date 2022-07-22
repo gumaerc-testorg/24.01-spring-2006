@@ -6,6 +6,7 @@ file: /courses/24-01-classics-in-western-philosophy-spring-2006/dd38e24d81860360
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2_phaedo.pdf
 uid: dd38e24d-8186-0360-0956-d982bcd83724
 ---
 This file contains background to Phaedo, five different arguments and forms.
-

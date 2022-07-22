@@ -7,6 +7,7 @@ file: /courses/24-01-classics-in-western-philosophy-spring-2006/a0d30c1623f78551
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 20_kant.pdf
 uid: a0d30c16-23f7-8551-64dc-c6909f618d4e
 ---
 This file contains a comparison between Kant and Aristotle related to topics like  actions, character, emotions, duty related and virtue related language etc.
-

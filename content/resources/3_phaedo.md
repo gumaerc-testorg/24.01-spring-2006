@@ -5,6 +5,7 @@ file: /courses/24-01-classics-in-western-philosophy-spring-2006/74bbc785b5bd68a7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

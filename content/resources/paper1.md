@@ -5,6 +5,7 @@ file: /courses/24-01-classics-in-western-philosophy-spring-2006/1840109e8738a209
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper1.pdf
 uid: 1840109e-8738-a209-8cf5-508453a8221d
 ---
 Topics for the writing assignment.
-

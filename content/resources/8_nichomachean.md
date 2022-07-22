@@ -6,6 +6,7 @@ file: /courses/24-01-classics-in-western-philosophy-spring-2006/bdf5963a78910142
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 8_nichomachean.pdf
 uid: bdf5963a-7891-0142-24d8-fdda27599ea2
 ---
 This file contains topics: excellence, virtue, happiness as a self sufficient good and a complete end and focus on proper function.
-

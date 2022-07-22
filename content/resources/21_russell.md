@@ -7,6 +7,7 @@ file: /courses/24-01-classics-in-western-philosophy-spring-2006/ae1a15a9e3e06979
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 21_russell.pdf
 uid: ae1a15a9-e3e0-6979-10f7-f1c853d6cc23
 ---
 This file contains topics:brief biographical remarks, appearance and reality,objects of sensation, sense data, it's epistemological role, it's alternatives and matter.
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/24-01-classics-in-western-philosophy-spring-2006/f1f3987afef77a7e8323f850d3dfa0e1_descartes_guide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
