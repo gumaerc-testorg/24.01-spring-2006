@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains sample exam, quotations under heading Part 1 and
+  short essay writing under heading Part 2.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 7d5e96c9-a9ae-ae8a-5f89-e8c543df3009
 ---

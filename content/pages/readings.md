@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains readings on various lecture topics of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 28e19b5e-6480-50ec-447d-8ea3ab1267f1
 ---
@@ -11,7 +15,7 @@ Prescribed Text
 
 Pojman, Louis P., ed. _Classics of Philosophy_. 2nd ed. New York, NY: Oxford University Press, 2003. ISBN: 0195148932. This anthology contains all the works cited below.
 
-Langton, Rae. _Study Guide to Descartes' Meditations_ (in progress). Available in [study materials]({{< baseurl >}}/pages/study-materials).
+Langton, Rae. _Study Guide to Descartes' Meditations_ (in progress). Available in {{% resource_link 24c93301-9a2f-d215-0084-f43a28a9f940 "study materials" %}}.
 
 {{< anchor "#Readings_by_session" >}}{{< /anchor >}}
 
