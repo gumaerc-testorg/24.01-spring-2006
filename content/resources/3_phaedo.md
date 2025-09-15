@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/74bbc785b5bd68a782714e2197bc9f5c_3_phaedo.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/74bbc785b5bd68a782714e2197bc9f5c_3_phaedo.pdf
+file_size: 181395
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

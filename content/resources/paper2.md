@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: List of topics for the writing assignment.
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/8ffcebaf623b2bbb4e199bc0b499bb33_paper2.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/8ffcebaf623b2bbb4e199bc0b499bb33_paper2.pdf
+file_size: 14364
 file_type: application/pdf
 learning_resource_types:
 - Assignments

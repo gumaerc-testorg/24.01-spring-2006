@@ -3,7 +3,8 @@ content_type: resource
 description: 'This file contains topics: biographical remarks, existentialism, essence
   and existence for things and human beings, freedom, anguish, example, responsibility
   and role of God.'
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/5f94324d9e1cd106d3cc0fe0d85ab0ad_23_sartre.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/5f94324d9e1cd106d3cc0fe0d85ab0ad_23_sartre.pdf
+file_size: 118647
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

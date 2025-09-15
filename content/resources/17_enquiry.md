@@ -2,7 +2,8 @@
 content_type: resource
 description: This file contains topics:notion of causation, perception of external
   objects and mental activities, digression and conclusion.
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/d37cb0881a398bdac765ea9140ed031e_17_enquiry.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/d37cb0881a398bdac765ea9140ed031e_17_enquiry.pdf
+file_size: 130640
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

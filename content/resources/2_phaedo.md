@@ -2,7 +2,8 @@
 content_type: resource
 description: This file contains background to Phaedo, five different arguments and
   forms.
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/dd38e24d818603600956d982bcd83724_2_phaedo.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/dd38e24d818603600956d982bcd83724_2_phaedo.pdf
+file_size: 178588
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

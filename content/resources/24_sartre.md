@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This file contains topics: bad faith,it''s being paradoxical, existentialist
   notion of conscious experience and questions about existentialism.'
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/4ec51bffe06e5b2267bdc8884e8c1381_24_sartre.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/4ec51bffe06e5b2267bdc8884e8c1381_24_sartre.pdf
+file_size: 110234
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

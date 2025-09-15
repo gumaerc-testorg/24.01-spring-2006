@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Excerpt from from the professor's "Study Guide to Descartes' Meditations."
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/eb0d2f538fc9fd264193b1e5483fb99b_descartes_guide4.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/eb0d2f538fc9fd264193b1e5483fb99b_descartes_guide4.pdf
+file_size: 36576
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

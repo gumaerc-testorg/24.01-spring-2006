@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This file contains topics: excellence, virtue, happiness as a self sufficient
   good and a complete end and focus on proper function.'
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/bdf5963a7891014224d8fdda27599ea2_8_nichomachean.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/bdf5963a7891014224d8fdda27599ea2_8_nichomachean.pdf
+file_size: 99455
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

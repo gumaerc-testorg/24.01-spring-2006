@@ -2,7 +2,8 @@
 content_type: resource
 description: This file contains topics:relations of ideas and matters of fact, problem
   of induction, first reponse, second response and Hume's skeptical solution.
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/c85bab769bb1b912a061a5c21bb7e42e_16_enquiry.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/c85bab769bb1b912a061a5c21bb7e42e_16_enquiry.pdf
+file_size: 110759
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

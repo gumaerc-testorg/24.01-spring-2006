@@ -3,7 +3,8 @@ content_type: resource
 description: 'This file contains topics: Kant''s background, good will, motive of
   duty, duty and the categorical imperative, formula of universal law, humanity and
   their relationship.'
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/707ae189e34b94d885823391b7928dc4_18_kant.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/707ae189e34b94d885823391b7928dc4_18_kant.pdf
+file_size: 127642
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

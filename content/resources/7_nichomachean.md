@@ -2,7 +2,8 @@
 content_type: resource
 description: This file contains content on happiness, function of human beings and
   structure of Aristotle's arguement.
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/ba6c08be36d62682f2897e68dfc08643_7_nichomachean.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/ba6c08be36d62682f2897e68dfc08643_7_nichomachean.pdf
+file_size: 93624
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

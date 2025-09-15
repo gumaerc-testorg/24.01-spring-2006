@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This file contains topics: introduction of Aristotle, comparison between
   body and soul.'
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/49328e0a62f6549e26884ba90fe632f5_5_on_soul.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/49328e0a62f6549e26884ba90fe632f5_5_on_soul.pdf
+file_size: 97615
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

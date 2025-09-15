@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Writing assignment.
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/179e33d87e9a2c34399e0e23a1fea23f_exercise2.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/179e33d87e9a2c34399e0e23a1fea23f_exercise2.pdf
+file_size: 13969
 file_type: application/pdf
 learning_resource_types:
 - Assignments

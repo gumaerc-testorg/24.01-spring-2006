@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This file contains Correspondence 1791-1794.
-file: /courses/24-01-classics-in-western-philosophy-spring-2006/1cf4fed3f55bb2579d931b34afc4cc1f_19_kant.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-in-western-philosophy-spring-2006/1cf4fed3f55bb2579d931b34afc4cc1f_19_kant.pdf
+file_size: 104538
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
