@@ -112,7 +112,7 @@ Blinksworth, Roger. 1980. _Converging on the evanescent_. San Francisco: Thresho
 In Text:  
 (Blinksworth 1987, 23)
 
-See the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/16/bib_toc.html) for more details about how to create and cite your bibliography.
+See the {{% resource_link "6945e126-3a30-46e5-a725-dc757213ae88" "Chicago Manual of Style" %}} for more details about how to create and cite your bibliography.
 
 Plagiarism
 ----------
@@ -129,7 +129,7 @@ To put it bluntly, plagiarism is theft and fraud -- it is the theft of someone e
 3.  When you use information that might not be considered common knowledge, cite the source.
 4.  When in doubt about whether or not to give a citation, always give a citation.
 
-Additional Information: [Citing and Using Sources](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/)
+Additional Information: {{% resource_link "0985c07a-c203-417a-aad3-d9e8938713b5" "Citing and Using Sources" %}}
 
 \*This statement has been issued by the HASS Committee on Discipline.
 
